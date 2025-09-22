@@ -11,11 +11,10 @@
 <!-- Pinned Repositories -->
 ## 🚀 My Projects
 
-[![ThiGiacPC](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=ThiGiacPC&theme=radical)](https://github.com/qwertytuan/ThiGiacPC)
-[![MSR_music_downloader](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=MSR_music_downloader&theme=radical)](https://github.com/qwertytuan/MSR_music_downloader)
-[![ArknightsVnReader](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=ArknightsVnReader&theme=radical)](https://github.com/qwertytuan/ArknightsVnReader)
-
-
+[![ThiGiacPC](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=ThiGiacPC&theme=dracula)](https://github.com/qwertytuan/ThiGiacPC)
+[![MSR_music_downloader](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=MSR_music_downloader&theme=dracula)](https://github.com/qwertytuan/MSR_music_downloader)
+[![PriceCrawler](https://github-readme-stats.vercel.app/api/pin/?username=TTCN-SUDO-N1&repo=PriceCrawler&theme=dracula)](https://github.com/TTCN-SUDO-N1/PriceCrawler)
+[![Cs2ServerPickerLinux](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=Cs2ServerPickerLinux&theme=dracula)](https://github.com/qwertytuan/Cs2ServerPickerLinux)
 <!-- Top Languages -->
 ## 🛠️ Languages & Tools
 <p align="center">

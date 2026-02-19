@@ -9,12 +9,7 @@
 </p>
 
 <!-- Pinned Repositories -->
-## 🚀 My Projects
 
-[![ThiGiacPC](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=ThiGiacPC&theme=dracula)](https://github.com/qwertytuan/ThiGiacPC)
-[![MSR_music_downloader](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=MSR_music_downloader&theme=dracula)](https://github.com/qwertytuan/MSR_music_downloader)
-[![PriceCrawler](https://github-readme-stats.vercel.app/api/pin/?username=TTCN-SUDO-N1&repo=PriceCrawler&theme=dracula)](https://github.com/TTCN-SUDO-N1/PriceCrawler)
-[![Cs2ServerPickerLinux](https://github-readme-stats.vercel.app/api/pin/?username=qwertytuan&repo=Cs2ServerPickerLinux&theme=dracula)](https://github.com/qwertytuan/Cs2ServerPickerLinux)
 <!-- Top Languages -->
 ## 🛠️ Languages & Tools
 <p align="center">
@@ -23,7 +18,7 @@
 
 <!-- Contact Section -->
 ## 📫 Connect with Me
-- Email: [your-email@example.com](mailto:225748020110013@vinhuni.edu.vn)
+- Email: [my_school_email](mailto:225748020110013@vinhuni.edu.vn)
 - [GitHub](https://github.com/qwertytuan)
 
 <!-- Footer -->
